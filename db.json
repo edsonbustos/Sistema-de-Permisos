@@ -1,14 +1,14 @@
 {
   "Permisos": [
     {
+      "id": "07b2",
       "sede": "Puntarenas",
-      "fecha": "2025-03-01",
-      "hora": "11:38",
-      "fecharegreso": "2025-02-28",
-      "regreso": "11:38",
-      "computadora": "23",
-      "estado": "Denegado",
-      "id": "5e62"
+      "fecha": "2025-03-03",
+      "hora": "11:52",
+      "fecharegreso": "2025-03-04",
+      "regreso": "12:52",
+      "computadora": "DELL 123",
+      "estado": "En espera"
     }
   ],
   "usuarios": [
