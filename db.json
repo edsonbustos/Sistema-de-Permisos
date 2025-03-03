@@ -1,14 +1,14 @@
 {
   "Permisos": [
     {
-      "id": "ac4b",
-      "sede": "",
-      "fecha": "",
-      "hora": "",
-      "fecharegreso": "",
-      "regreso": "",
-      "computadora": "QE",
-      "estado": "En espera"
+      "sede": "Puntarenas",
+      "fecha": "2025-03-01",
+      "hora": "11:38",
+      "fecharegreso": "2025-02-28",
+      "regreso": "11:38",
+      "computadora": "23",
+      "estado": "Denegado",
+      "id": "5e62"
     }
   ],
   "usuarios": [
@@ -21,6 +21,24 @@
     {
       "id": "2b27",
       "username": "ed",
+      "password": "1",
+      "tipo": "estudiante"
+    },
+    {
+      "id": "5f93",
+      "username": "ed",
+      "password": "1",
+      "tipo": "estudiante"
+    },
+    {
+      "id": "b65c",
+      "username": "Steven",
+      "password": "1",
+      "tipo": "estudiante"
+    },
+    {
+      "id": "89c9",
+      "username": "DIEGO",
       "password": "1",
       "tipo": "estudiante"
     }
